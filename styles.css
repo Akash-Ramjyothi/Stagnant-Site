@@ -115,6 +115,14 @@
   border: 4px solid black;
 }
 
+.pros-and-cons-img {
+  margin-top: 30px;
+  margin-right: 20px;
+  margin-left: 20px;
+  border: 4px solid black;
+  width: 220px;
+}
+
 .pointer-img {
   min-width: 20%;
   max-width: 40%;
