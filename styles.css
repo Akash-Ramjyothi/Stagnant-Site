@@ -1,4 +1,7 @@
 .product {
+  border-top: 3px solid black;
+  border-right: 3px solid black;
+  border-left: 3px solid black;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -37,16 +40,18 @@
 }
 
 .product-description {
+  border-right: 3px solid black;
+  border-left: 3px solid black;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: row;
 }
 
-.box-container{
-    display: flex;
-    justify-content: space-evenly;
-    flex-direction: row;
+.box-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
 }
 
 .product-desc-text {
@@ -78,11 +83,25 @@
   flex-direction: row;
 }
 
+.shop-by-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .subheading-desc-text {
   margin-top: 30px;
   margin-left: 10px;
   margin-right: 10px;
   width: 75%;
+  font-size: 16px;
+  font-family: Arial, Geneva, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.shop-by-text {
+  padding-top: 10px;
   font-size: 16px;
   font-family: Arial, Geneva, Helvetica, sans-serif;
   font-weight: bold;
@@ -96,10 +115,10 @@
   border: 4px solid black;
 }
 
-.pointer-img{
-    min-width: 12%;
-    max-width: 12%;
-    border: 4px solid black;
+.pointer-img {
+  min-width: 20%;
+  max-width: 40%;
+  border: 4px solid black;
 }
 
 .attributes-desc-text {
@@ -142,6 +161,16 @@
   font-size: 20px;
 }
 
+.about-section {
+  border-bottom: 3px solid black;
+  border-right: 3px solid black;
+  border-left: 3px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
 .about-text {
   margin-top: 0px;
   font-family: Arial, Geneva, Helvetica, sans-serif;
@@ -151,9 +180,23 @@
 }
 
 .pros-and-cons {
-  border-top: 4px solid black;
-  border-bottom: 4px solid black;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  border-right: 3px solid black;
+  border-left: 3px solid black;
   background-color: #ffd580;
+}
+
+.white-back {
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  border-right: 3px solid black;
+  border-left: 3px solid black;
+}
+
+.attributes {
+  border-right: 3px solid black;
+  border-left: 3px solid black;
 }
 
 .product-img {
@@ -163,4 +206,36 @@
 .vertical-dividor {
   border-left: 2px solid black;
   height: 140px;
+}
+
+.nav-bar {
+  background-color: grey;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+}
+
+.nav-element {
+  padding: 8px;
+  color: white;
+  font-family: Arial, Geneva, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.nav-bar-white {
+  background-color: white;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+}
+
+.nav-element-white {
+  padding: 8px;
+  color: rgb(68, 68, 68);
+  font-family: Arial, Geneva, Helvetica, sans-serif;
+  font-size: 10px;
+  font-weight: bold;
 }
