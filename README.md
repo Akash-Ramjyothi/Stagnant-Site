@@ -8,7 +8,7 @@
 Built a complete Website by using basic Wireframe as reference. Made the project completely responsive to all screen sizes and highly intuitive and ease of convenience to use by customers. Developed this project to demonstrate my Frontend development expertise.
 
 ## 📽 Sample Demo:
-https://clipchamp.com/watch/F1bmn3iN1R1
+https://drive.google.com/file/d/1Xj4EqNeQM0bG_A-tfsbJ5KSh99m6Eq-F/view
 
 ## 🌎 Deployed Website:
 ### https://stagnant-site.netlify.app/
