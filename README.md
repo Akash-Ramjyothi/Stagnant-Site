@@ -5,7 +5,7 @@
 </p>
 
 ## 📜 Description:
-Developed a robust and beautiful frontend of a Blogging Website. Made the website highly responsive and compatible with various screen sizes/ Made use of various frontend libraries to improve the user interface and user experience. Currently it consists of static elements, but can later be easily configured to a scalable system.
+Built a complete Website by using basic Wireframe as reference. Made the project completely responsive to all screen sizes and highly intuitive and ease of convenience to use by customers. Developed this project to demonstrate my Frontend development expertise.
 
 ## 📽 Sample Demo:
 https://clipchamp.com/watch/F1bmn3iN1R1
