@@ -1,1 +1,51 @@
-Text
+<h1 align="center">Stagnant-Site</h1>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/54114888/212182209-d3791887-e9f7-4894-9541-082ab3c43a75.png" width="180" height="180">
+</p>
+
+## 📜 Description:
+Developed a robust and beautiful frontend of a Blogging Website. Made the website highly responsive and compatible with various screen sizes/ Made use of various frontend libraries to improve the user interface and user experience. Currently it consists of static elements, but can later be easily configured to a scalable system.
+
+## 📽 Sample Demo:
+<div style="position:relative;width:fit-content;height:fit-content;">
+            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/F1bmn3iN1R1?utm_source=embed&utm_medium=embed&utm_campaign=watch">
+                <img style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
+            </a>
+            <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/F1bmn3iN1R1/embed" width="640" height="360"></iframe>
+        </div>
+
+## 🌎 Deployed Website:
+### https://stagnant-site.netlify.app/
+
+## 🏗 Built With:
+ - HTML.
+ - CSS.
+ - Javascript.
+ - Netlify.
+
+## 💥 How to Contribute?
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
+
+- Take a look at the Existing [Issues](https://github.com/Akash-Ramjyothi/Stagnant-Site/issues) or create your own Issues!
+- Wait for the Issue to be assigned to you after which you can start working on it.
+- Fork the Repo and create a Branch for any Issue that you are working upon.
+- Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
+- Add Screenshots to help me know what this Code is all about.
+
+## 👦 Developed By:
+<h2 align="center">Akash Ramjyothi</h2>
+<p align="center">
+  <a href="https://github.com/Akash-Ramjyothi"><img src="https://avatars.githubusercontent.com/u/54114888?v=4" width=150px height=150px /></a> 
+    
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/akash-ramjyothi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:akash.ramjyothi@gmail.com?subject=Hello%20Akash,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/akash.ramjyothi/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  ☎️ PH:+91 8939928002.
+</p>
+
+## 🌐 References Used:
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
