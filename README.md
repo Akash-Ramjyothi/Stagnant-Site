@@ -8,12 +8,7 @@
 Developed a robust and beautiful frontend of a Blogging Website. Made the website highly responsive and compatible with various screen sizes/ Made use of various frontend libraries to improve the user interface and user experience. Currently it consists of static elements, but can later be easily configured to a scalable system.
 
 ## 📽 Sample Demo:
-<div style="position:relative;width:fit-content;height:fit-content;">
-            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/F1bmn3iN1R1?utm_source=embed&utm_medium=embed&utm_campaign=watch">
-                <img style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
-            </a>
-            <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/F1bmn3iN1R1/embed" width="640" height="360"></iframe>
-        </div>
+https://clipchamp.com/watch/F1bmn3iN1R1
 
 ## 🌎 Deployed Website:
 ### https://stagnant-site.netlify.app/
