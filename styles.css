@@ -1,5 +1,4 @@
 .product {
-  border-top: 3px solid black;
   border-right: 3px solid black;
   border-left: 3px solid black;
   display: flex;
@@ -225,7 +224,7 @@
 }
 
 .nav-element {
-  padding: 8px;
+  padding: 10px;
   color: white;
   font-family: Arial, Geneva, Helvetica, sans-serif;
   font-size: 14px;
