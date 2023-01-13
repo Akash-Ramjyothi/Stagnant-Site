@@ -5,13 +5,16 @@
 </p>
 
 ## 📜 Description:
-Built a complete Website by using basic Wireframe as reference. Made the project completely responsive to all screen sizes and highly intuitive and ease of convenience to use by customers. Developed this project to demonstrate my Frontend development expertise.
+Built a complete Website by only using a superfical Wireframe as reference. Made the project completely responsive to all screen sizes and highly intuitive and ease of convenience to use by customers. Developed this project to demonstrate my Frontend development expertise and ability to comprehend existing Wireframs and Designs to Live products.
 
 ## 📽 Sample Demo:
 https://drive.google.com/file/d/1Xj4EqNeQM0bG_A-tfsbJ5KSh99m6Eq-F/view
 
 ## 🌎 Deployed Website:
 ### https://stagnant-site.netlify.app/
+
+## 📝 Wireframe Used:
+### https://drive.google.com/file/d/19b63guOwh_LhYyPGz3BX9fNiqKBAYcIB/view?usp=sharing
 
 ## 🏗 Built With:
  - HTML.
